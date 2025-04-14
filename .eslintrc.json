@@ -1,0 +1,22 @@
+{
+  "extends": "next/core-web-vitals",
+  "ignorePatterns": ["src/api-client/generated/**/*"],
+  "rules": {
+    "@typescript-eslint/no-unused-vars": [
+      "error",
+      {
+        "argsIgnorePattern": "^_",
+        "varsIgnorePattern": "^_",
+        "caughtErrorsIgnorePattern": "^_"
+      }
+    ]
+  },
+  "overrides": [
+    {
+      "files": ["src/api-client/generated/**/*"],
+      "rules": {
+        "eslint-comments/no-unused-disable": "off"
+      }
+    }
+  ]
+}

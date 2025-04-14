@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "is_premium": false,
+        "name": "Beyond Meat",
+        "description": "Class action settlement regarding Beyond Meat protein content claims.",
+        "proof_needed": false,
+        "close_date": "2025-03-31",
+        "payout_amount": 2,
+        "title": "Beyond Meat - Protein Content Class Action Settlement",
+        "link": "https://www.classaction.org/settlements/beyond-meat",
+        "date_to_close": "March 31, 2025",
+        "amount_to_be_recovered": {
+            "raw": "$2+",
+            "max_amount": 2,
+            "description": "$2 is the base recovery amount indicated. The '+' suggests there may be additional recovery, but no specific multiplier or additional limits are provided."
+        },
+        "provider": {
+            "name": "Class Action",
+            "url": "https://www.classaction.org/settlements"
+        }
+    },
+    {
+        "id": 2,
+        "is_premium": false,
+        "name": "Walgreens Prescription",
+        "description": "Settlement for Walgreens customers regarding prescription drug cost claims.",
+        "proof_needed": true,
+        "close_date": "2025-03-28",
+        "payout_amount": 0,
+        "title": "Walgreens Prescription Drug Costs Class Action Settlement",
+        "link": "https://www.classaction.org/settlements/walgreens-savings-club",
+        "date_to_close": "March 28, 2025",
+        "amount_to_be_recovered": {
+            "raw": "Varies",
+            "max_amount": 0,
+            "description": "Unable to determine specific amount. No dollar values mentioned in the text."
+        },
+        "provider": {
+            "name": "Class Action",
+            "url": "https://www.classaction.org/settlements"
+        }
+    },
+    {
+        "id": 3,
+        "is_premium": false,
+        "name": "Deep River Potato Chips",
+        "description": "Settlement for purchasers of Deep River potato chips.",
+        "proof_needed": false,
+        "close_date": "2025-07-28",
+        "payout_amount": 5,
+        "title": "Deep River Potato Chips Class Action Settlement",
+        "link": "https://www.classaction.org/settlements/deep-river-potato-chips",
+        "date_to_close": "July 28, 2025",
+        "amount_to_be_recovered": {
+            "raw": "$5+",
+            "max_amount": 5,
+            "description": "$5 is the base recovery amount indicated. No additional limits or multipliers (such as per item or per year restrictions) are provided."
+        },
+        "provider": {
+            "name": "Class Action",
+            "url": "https://www.classaction.org/settlements"
+        }
+    },
+    {
+        "id": 4,
+        "is_premium": false,
+        "name": "Jeep Wrangler",
+        "description": "Settlement for owners of Jeep Wrangler and Gladiator vehicles with front suspension issues.",
+        "proof_needed": true,
+        "close_date": "2025-05-15",
+        "payout_amount": 0,
+        "title": "Jeep Wrangler, Gladiator - Front Suspension Class Action Settlement",
+        "link": "https://cptgroupcaseinfo.com/FCAUSSettlement/",
+        "date_to_close": "Varies",
+        "amount_to_be_recovered": {
+            "raw": "Varies",
+            "max_amount": 0,
+            "description": "Unable to determine specific amount. No dollar values mentioned in the text."
+        },
+        "provider": {
+            "name": "Class Action",
+            "url": "https://www.classaction.org/settlements"
+        }
+    },
+    {
+        "id": 5,
+        "is_premium": false,
+        "name": "Domestic Flight Antitrust",
+        "description": "Settlement for customers affected by alleged price fixing among domestic airlines.",
+        "proof_needed": false,
+        "close_date": "2025-06-30",
+        "payout_amount": 0,
+        "title": "Domestic Flight Antitrust Class Action Settlement",
+        "link": "https://domesticairclass.com/",
+        "date_to_close": "Varies",
+        "amount_to_be_recovered": {
+            "raw": "Varies",
+            "max_amount": 0,
+            "description": "Unable to determine specific amount. No dollar values mentioned in the text."
+        },
+        "provider": {
+            "name": "Class Action",
+            "url": "https://www.classaction.org/settlements"
+        }
+    },
+    {
+        "id": 6,
+        "is_premium": false,
+        "name": "NIBCO",
+        "description": "Settlement for property owners with NIBCO PEX plumbing systems that failed.",
+        "proof_needed": true,
+        "close_date": "2025-08-10",
+        "payout_amount": 0,
+        "title": "NIBCO Class Action Settlement",
+        "link": "http://www.pexsystemsettlement.com/",
+        "date_to_close": "Varies",
+        "amount_to_be_recovered": {
+            "raw": "Varies",
+            "max_amount": 0,
+            "description": "Unable to determine specific amount. No dollar values mentioned in the text."
+        },
+        "provider": {
+            "name": "Class Action",
+            "url": "https://www.classaction.org/settlements"
+        }
+    },
+    {
+        "id": 7,
+        "is_premium": false,
+        "name": "Zonolite Insulation",
+        "description": "Settlement for property owners with Zonolite Vermiculite Attic Insulation.",
+        "proof_needed": true,
+        "close_date": "2025-09-20",
+        "payout_amount": 0,
+        "title": "Zonolite Vermiculite Attic Insulation Class Action Settlement",
+        "link": "https://www.zonoliteatticinsulation.com/Hm1.aspx",
+        "date_to_close": "Varies",
+        "amount_to_be_recovered": {
+            "raw": "Varies",
+            "max_amount": 0,
+            "description": "Unable to determine specific amount. No dollar values mentioned in the text."
+        },
+        "provider": {
+            "name": "Class Action",
+            "url": "https://www.classaction.org/settlements"
+        }
+    },
+    {
+        "id": 8,
+        "is_premium": false,
+        "name": "Ford PowerShift",
+        "description": "Settlement for Ford owners with PowerShift transmission issues.",
+        "proof_needed": true,
+        "close_date": "2025-10-15",
+        "payout_amount": 0,
+        "title": "Ford - PowerShift Transmissions Class Action Settlement",
+        "link": "http://fordtransmissionsettlement.com/",
+        "date_to_close": "Varies",
+        "amount_to_be_recovered": {
+            "raw": "Varies",
+            "max_amount": 0,
+            "description": "Unable to determine specific amount. No dollar values mentioned in the text."
+        },
+        "provider": {
+            "name": "Class Action",
+            "url": "https://www.classaction.org/settlements"
+        }
+    },
+    {
+        "id": 9,
+        "is_premium": false,
+        "name": "My Little Steamer",
+        "description": "Settlement for purchasers of My Little Steamer products.",
+        "proof_needed": false,
+        "close_date": "2025-11-30",
+        "payout_amount": 0,
+        "title": "My Little Steamer Class Action Settlement",
+        "link": "https://www.steamerrecallsettlement.com/",
+        "date_to_close": "Varies",
+        "amount_to_be_recovered": {
+            "raw": "Varies",
+            "max_amount": 0,
+            "description": "Unable to determine specific amount. No dollar values mentioned in the text."
+        },
+        "provider": {
+            "name": "Class Action",
+            "url": "https://www.classaction.org/settlements"
+        }
+    },
+    {
+        "id": 10,
+        "is_premium": true,
+        "name": "Nissan CVT",
+        "description": "Settlement for Nissan owners with CVT transmission issues. Settlement for Nissan owners with CVT transmission issues.Settlement for Nissan owners with CVT transmission issues.Settlement for Nissan owners with CVT transmission issues.Settlement for Nissan owners with CVT transmission issues.",
+        "proof_needed": false,
+        "close_date": "2025-12-31",
+        "payout_amount": 5000,
+        "title": "Nissan - CVT Transmissions Class Action Settlement",
+        "link": "http://www.roguepathfinderqx60cvtsettlement.com/",
+        "date_to_close": "Varies",
+        "amount_to_be_recovered": {
+            "raw": "Up to $5,000",
+            "max_amount": 5000,
+            "description": "Up to $5,000 total recovery with no additional per-item or time period multipliers specified."
+        },
+        "provider": {
+            "name": "Class Action",
+            "url": "https://www.classaction.org/settlements"
+        }
+    }
+]
