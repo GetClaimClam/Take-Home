@@ -7,8 +7,9 @@ We'd like you to **spend up to 2 hours** setting up and digging into this reposi
 - What other metrics would be impacted by your feature?
 - How would you A/B test it?
 
-**2. What would you improve abour our frontend dev infrastructure?**
-- Why would you invest in improving there? What is the problem that it solves?
+**2. What would you improve about our frontend dev infrastructure?**
+- Why would you invest in improving there?
+- What is the problem that it solves?
 - What alternatives have you considered?
 
 There are a few bugs that were introduced into this repository, but consider them "extra credit" if you find them. A good answer to the above questions is more important than bug identification.
