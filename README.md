@@ -1,7 +1,7 @@
 ## Take Home Assignment
 This repository is a minimal version of our existing web application.
 
-We'd like you to **spend up to 2 hours** setting up and digging into this repository to answer either or both of these two questions:
+We'd like you to **spend 1 to 2 hours** setting up and digging into this repository to answer either or both of these two questions:
 
 **1. What is a feature that you think could improve our "cases per user" metric**
 - What other metrics would be impacted by your feature?
@@ -14,6 +14,8 @@ We'd like you to **spend up to 2 hours** setting up and digging into this reposi
 
 There are a few bugs that were introduced into this repository, but consider them "extra credit" if you find them. A good answer to the above questions is more important than bug identification.
 
+### Submission
+This repository doesn't accept pull requests, so let Chris know via email that you have completed the task. We will schedule next steps soon after.
 
 ## Prerequisites
 
